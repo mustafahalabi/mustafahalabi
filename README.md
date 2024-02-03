@@ -1,13 +1,12 @@
 
 
-<h2 align="left">Hi 👋! My name is Mustafa Halabi and I'm a full stack developer from Lebanon with 3+ years of experience</h2>
+<h2 align="center">Hi 👋! My name is Mustafa Halabi and I'm a full stack developer with 3+ years of experience</h2>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mustafahalabi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafahalabi" alt="mustafahalabi" /></a> </p>
 
 
 <div align="left">
@@ -70,7 +69,9 @@
 
 ###
 
-<div align="left">
+
+
+<div align="center">
   <a href="https://www.instagram.com/mostafahalabi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -89,6 +90,10 @@
 
 <br clear="both">
 
+<div align="center">
+
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+</div>
 
 ###
