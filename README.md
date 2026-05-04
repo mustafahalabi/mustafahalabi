@@ -44,8 +44,9 @@ I design and ship **production-grade systems** — from microservices powering l
 
 ### 📊 GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafahalabi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahalabi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mustafahalabi&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mustafahalabi&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 ---
 
