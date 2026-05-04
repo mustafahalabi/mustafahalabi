@@ -32,6 +32,7 @@ I design and ship **production-grade systems** — from microservices powering l
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,redis,graphql,docker,kubernetes,aws,linux" />
 </p>
 
+
 ---
 
 ### ⚙️ What I Focus On
@@ -46,8 +47,8 @@ I design and ship **production-grade systems** — from microservices powering l
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafahalabi&theme=default" alt="GitHub Streak" />
 </p>
----
 
+---
 ### 🌐 Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/mustafa-halabi-914051149/"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
