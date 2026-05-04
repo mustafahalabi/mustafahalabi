@@ -43,10 +43,10 @@ I design and ship **production-grade systems** — from microservices powering l
 
 ---
 
-### 📊 GitHub
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafahalabi&theme=default" alt="GitHub Streak" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mustafahalabi&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mustafahalabi&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustafahalabi&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 ### 🌐 Contact
