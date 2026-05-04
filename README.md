@@ -43,10 +43,13 @@ I design and ship **production-grade systems** — from microservices powering l
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mustafahalabi&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mustafahalabi&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustafahalabi&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🧩 Engineering Highlights
+
+- Built production microservices for live broadcast ad-tech
+- Architected a 160k+ LOC headless e-commerce platform
+- Designed Shopify ↔ MongoDB sync for 12,000+ SKUs
+- Built a B2B SaaS platform from 0 → production in ~6 weeks
+- Worked with Node.js, TypeScript, Next.js, GraphQL, MongoDB, Redis, Docker, and Kubernetes
 
 ---
 ### 🌐 Contact
